@@ -1,0 +1,15 @@
+h1 {
+    color :white;
+    background-color:black;
+    display:inline;
+    margin:500px;  
+}
+body {
+    background-image: url(logo.png)
+    
+
+}
+label {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
